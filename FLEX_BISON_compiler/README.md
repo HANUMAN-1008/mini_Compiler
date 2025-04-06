@@ -5,6 +5,8 @@ A simple compiler built using:
 - Flex (for lexical analysis)
 - Bison (for parsing)
 - Gcc (for integration)
+- It has built-in custom instruction for sigmoid function: sigmoid(<Expression)
+- sigmoid(x) = 1 / (1 + e^(-x))
 
 It parses a custom arithmatic equation and sigmoid function and prints the computed result just after parsing.
 
