@@ -1,5 +1,5 @@
 ------------------------------------------------------------
-                **Flex/Bison Compiler Project**
+                Flex/Bison Compiler Project
 ------------------------------------------------------------
 
 A simple compiler built using:
