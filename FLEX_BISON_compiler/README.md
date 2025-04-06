@@ -66,6 +66,5 @@ NOTES
 ------------------------------------------------------------
 
 - Tokens in calc.l should match %token in calc.y
-- All rules in calc.y must end with semicolons
 - Ensure return values in lexer are correct
 - You can test different input programs as it takes dynamic inputs
