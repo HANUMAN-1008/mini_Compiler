@@ -17,14 +17,12 @@ Ensure the following are installed on your system:
 - NASM (Netwide Assembler): Used for assembly code generation.
 - GCC (GNU Compiler Collection): Used for compiling.
 - LD (GNU Linker): For linking compiled object files.
+- CMAKE: To build the compiler.
 - Use LINUX environment(prefferd).
 
 # Building the Compiler
-To build the compiler, go to the compiler_CODES folder
-
-Run the following in bash:
-
-- make
+- To build the compiler, go to the **compiler_CODES** folder
+- Run the following in bash:      **make**
 
 This will generate the executable files for the compiler.
 
