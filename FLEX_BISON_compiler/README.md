@@ -21,13 +21,14 @@ Make sure you have the following installed:
 - gcc/g++      → compiler
 
 Linux install (Debian/Ubuntu):
-    sudo apt update
-    sudo apt install flex bison gcc nasm make
+  sudo apt update
+  sudo apt install flex bison gcc nasm make
 
 Windows (manual):
     1. Search for the FLEX and BISON from the net.
     2 .Don't forget to properly set up after installing.
     3. The provided YouTube link may be helpful(FOR ANY FURTHER ISSUE USE AI TO RESOLVE): https://youtu.be/8jCiE-TPV_Q?si=mhSd1OTgmSQy0RI8
+    
 ------------------------------------------------------------
 PROJECT STRUCTURE
 ------------------------------------------------------------
@@ -59,5 +60,3 @@ NOTES
 - All rules in calc.y must end with semicolons
 - Ensure return values in lexer are correct
 - You can test different input programs as it takes dynamic inputs
-
-- 
