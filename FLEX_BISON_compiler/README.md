@@ -1,6 +1,6 @@
-============================================================
+**
                 Flex/Bison Compiler Project
-============================================================
+**
 
 A simple compiler built using:
 - Flex (for lexical analysis)
