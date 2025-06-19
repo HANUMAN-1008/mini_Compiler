@@ -17,7 +17,7 @@ Ensure the following are installed on your system:
 - NASM (Netwide Assembler): Used for assembly code generation.
 - GCC (GNU Compiler Collection): Used for compiling.
 - LD (GNU Linker): For linking compiled object files.
-- CMAKE: To build the compiler.
+- CMAKE: To build th compiler.
 - Use LINUX environment(prefferd).
 
 # Building the Compiler

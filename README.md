@@ -9,7 +9,7 @@ One is for lex and parse compiler only.
 
 The other is for a mini compiler capable of handling arithmatics and sigmoid function only.
 
-The project is under development, and new features will be added.
+The projet is under development, and new features will be added.
 
 # 1) FLEX_BISON COMPILER :
 - A lexer and parser based compiler for my custom sigmoid function and arithematic equation.
